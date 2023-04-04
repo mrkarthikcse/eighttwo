@@ -1,4 +1,3 @@
-mit
-ceg
-premji
-512
+git
+github
+cseb
